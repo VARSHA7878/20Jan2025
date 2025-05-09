@@ -16,5 +16,6 @@ public class Test1 {
 		WebDriver driver = new EdgeDriver();
 		//System.out.println("Hello testNG");
 		driver.get("https://mvnrepository.com/");
+		System.out.println("hello varsha ");
 	}
 }
